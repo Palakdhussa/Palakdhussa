@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Palak 👋
 
-<!--
-**Palakdhussa/Palakdhussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Software Testing
 
-Here are some ideas to get you started:
+I'm an aspiring Software Developer interested in software development and software testing. I enjoy learning new technologies and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* Java
+* Python
+* SQL
+* HTML
+* CSS
+* Object-Oriented Programming (OOP)
+* Software Testing
+* Git & GitHub
+
+## 🧪 Software Testing
+
+* Test Case Design
+* Test Scenarios
+* Bug Reporting
+* Functional Testing
+* Manual Testing
+
+## 🚀 Projects
+
+🔹 Java Programming Projects
+🔹 Python Projects
+🔹 SQL Practice
+🔹 HTML & CSS Projects
+🔹 Software Testing Projects
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Advanced Java
+* Automation Testing
+* Selenium
+
+## 🎯 Career Goal
+
+Looking for opportunities as a Software Developer or Software Tester where I can apply my skills, learn from experienced professionals, and contribute to real-world projects.
+
+## 📫 Connect With Me
+
+* LinkedIn: Add your LinkedIn profile here
+* Email: Add your professional email here
