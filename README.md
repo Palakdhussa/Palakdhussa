@@ -44,5 +44,5 @@ Looking for opportunities as a Software Developer or Software Tester where I can
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn profile here
-* Email: Add your professional email here
+* LinkedIn: www.linkedin.com/in/palak-dhussa-a46589436
+* Email: dhussapalak@gmail.com
